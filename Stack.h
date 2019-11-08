@@ -11,7 +11,6 @@ public:
     void push_head (Data newObj);
     bool pop_head ();
 
-
 };
 
 #endif //PROJECT7_STACK_H

@@ -8,7 +8,7 @@ Stack::Stack() {
 }
 
 void Stack ::push_head(Data newObj) {
-    Node* newHead = (newObj, head);
+    Node* newHead = new Node (newObj, head);
     head = newHead;
 
 }
