@@ -10,6 +10,9 @@ public:
     Stack();
     void push_head (Data newObj);
     bool pop_head ();
+protected:
+    Data obj;
+    Node* top;
 
 };
 

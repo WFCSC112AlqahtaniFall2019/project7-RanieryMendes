@@ -1,4 +1,5 @@
 #include "Data.h"
+#include "LinkedList.h"
 //
 // Created by Raniery Costa Mendes on 11/7/19.
 //
@@ -15,7 +16,8 @@ bool Data ::operator>(Data objComp) {
 
 }
 
-ostream& Data::operator<<(const Data obj) {
+ostream& Data::operator<<(Data obj) {
+
     cout << "FIRE IN AMAZON - Year: " << obj.year << " Month: " << obj.month << " State: ";
     cout<< obj.state << " Number of Fires: " << obj.numberOfFires;
 

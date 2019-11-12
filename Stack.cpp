@@ -4,7 +4,7 @@
 // Created by Raniery Costa Mendes on 11/7/19.
 //
 Stack::Stack() {
-
+    top = head;
 }
 
 void Stack ::push_head(Data newObj) {
@@ -21,6 +21,7 @@ bool Stack ::pop_head() {
     }
 
     else{
+        this->obj.operator<<(obj);
 
         Node* previousHead = head;
         head = head->next;

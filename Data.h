@@ -11,11 +11,11 @@ class Data {
     //Class to deal with dataset about Fires in Amazon Rain forest
 public:
     // items from dataset: year	state	month	number of fires date
-    int year;
+    string year;
     string month;
     string state;
-    int numberOfFires;
-    ostream& operator<< (const Data obj);
+    string numberOfFires;
+    ostream& operator<< ( Data obj);
     bool operator> (Data objComp);
 
 
