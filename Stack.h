@@ -12,7 +12,7 @@ public:
     bool pop_head ();
 protected:
     Data obj;
-    Node* top;
+    Node* top = nullptr;
 
 };
 

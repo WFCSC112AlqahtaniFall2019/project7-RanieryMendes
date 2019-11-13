@@ -8,23 +8,23 @@ Stack::Stack() {
 }
 
 void Stack ::push_head(Data newObj) {
-    Node* newHead = new Node (newObj, head);
-    head = newHead;
+    Node* newHead = new Node (newObj, top);
+    top = newHead;
 
 }
 
 bool Stack ::pop_head() {
-    if (head == nullptr){
+    if (top == nullptr){
         cout << "Empty List" << endl;
         return  false;
 
     }
 
     else{
-        this->obj.operator<<(obj);
 
-        Node* previousHead = head;
-        head = head->next;
+        Node* previousHead = top;
+        top = top->next;
+        previousHead->next = nullptr;
         delete previousHead;
         return true;
     }

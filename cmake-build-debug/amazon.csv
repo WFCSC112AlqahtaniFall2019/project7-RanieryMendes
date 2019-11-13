@@ -1,24 +1,23 @@
-year,state,month,number
-1998,Acre,Janeiro,0
-1999,Acre,Janeiro,0
-2000,Acre,Janeiro,0
-2001,Acre,Janeiro,0
-2002,Acre,Janeiro,0
-2003,Acre,Janeiro,10
-2004,Acre,Janeiro,0
-2005,Acre,Janeiro,12
-2006,Acre,Janeiro,4
-2007,Acre,Janeiro,0
-2008,Acre,Janeiro,0
-2009,Acre,Janeiro,0
-2010,Acre,Janeiro,1
-2011,Acre,Janeiro,0
-2012,Acre,Janeiro,0
-2013,Acre,Janeiro,0
-2014,Acre,Janeiro,0
-2015,Acre,Janeiro,1
-2016,Acre,Janeiro,12
-2017,Acre,Janeiro,0
+1998,Acre,January,0
+1999,Acre,January,0
+2000,Acre,January,0
+2001,Acre,January,0
+2002,Acre,January,0
+2003,Acre,January,10
+2004,Acre,January,0
+2005,Acre,January,12
+2006,Acre,January,4
+2007,Acre,January,0
+2008,Acre,January,0
+2009,Acre,January,0
+2010,Acre,January,1
+2011,Acre,January,0
+2012,Acre,January,0
+2013,Acre,January,0
+2014,Acre,January,0
+2015,Acre,January,1
+2016,Acre,January,12
+2017,Acre,January,0
 1998,Acre,Fevereiro,0
 1999,Acre,Fevereiro,0
 2000,Acre,Fevereiro,0
@@ -39,26 +38,6 @@ year,state,month,number
 2015,Acre,Fevereiro,2
 2016,Acre,Fevereiro,5
 2017,Acre,Fevereiro,1
-1998,Acre,Mar�o,0
-1999,Acre,Mar�o,0
-2000,Acre,Mar�o,11
-2001,Acre,Mar�o,0
-2002,Acre,Mar�o,0
-2003,Acre,Mar�o,0
-2004,Acre,Mar�o,0
-2005,Acre,Mar�o,3
-2006,Acre,Mar�o,0
-2007,Acre,Mar�o,2
-2008,Acre,Mar�o,0
-2009,Acre,Mar�o,1
-2010,Acre,Mar�o,0
-2011,Acre,Mar�o,0
-2012,Acre,Mar�o,1
-2013,Acre,Mar�o,2
-2014,Acre,Mar�o,1
-2015,Acre,Mar�o,2
-2016,Acre,Mar�o,0
-2017,Acre,Mar�o,0
 1998,Acre,Abril,0
 1999,Acre,Abril,0
 2000,Acre,Abril,1
@@ -279,26 +258,26 @@ year,state,month,number
 2015,Alagoas,Fevereiro,46
 2016,Alagoas,Fevereiro,14
 2017,Alagoas,Fevereiro,21
-1998,Alagoas,Mar�o,0
-1999,Alagoas,Mar�o,52
-2000,Alagoas,Mar�o,32
-2001,Alagoas,Mar�o,0
-2002,Alagoas,Mar�o,27
-2003,Alagoas,Mar�o,15
-2004,Alagoas,Mar�o,16
-2005,Alagoas,Mar�o,35
-2006,Alagoas,Mar�o,37
-2007,Alagoas,Mar�o,7
-2008,Alagoas,Mar�o,31
-2009,Alagoas,Mar�o,31
-2010,Alagoas,Mar�o,70
-2011,Alagoas,Mar�o,34
-2012,Alagoas,Mar�o,44
-2013,Alagoas,Mar�o,31
-2014,Alagoas,Mar�o,28
-2015,Alagoas,Mar�o,32
-2016,Alagoas,Mar�o,9
-2017,Alagoas,Mar�o,23
+1998,Alagoas,March,0
+1999,Alagoas,March,52
+2000,Alagoas,March,32
+2001,Alagoas,March,0
+2002,Alagoas,March,27
+2003,Alagoas,March,15
+2004,Alagoas,March,16
+2005,Alagoas,March,35
+2006,Alagoas,March,37
+2007,Alagoas,March,7
+2008,Alagoas,March,31
+2009,Alagoas,March,31
+2010,Alagoas,March,70
+2011,Alagoas,March,34
+2012,Alagoas,March,44
+2013,Alagoas,March,31
+2014,Alagoas,March,28
+2015,Alagoas,March,32
+2016,Alagoas,March,9
+2017,Alagoas,March,23
 1998,Alagoas,Abril,0
 1999,Alagoas,Abril,4
 2000,Alagoas,Abril,20
@@ -518,26 +497,26 @@ year,state,month,number
 2015,Amapa,Fevereiro,1
 2016,Amapa,Fevereiro,1
 2017,Amapa,Fevereiro,0
-1998,Amapa,Mar�o,0
-1999,Amapa,Mar�o,2
-2000,Amapa,Mar�o,0
-2001,Amapa,Mar�o,0
-2002,Amapa,Mar�o,0
-2003,Amapa,Mar�o,1
-2004,Amapa,Mar�o,0
-2005,Amapa,Mar�o,0
-2006,Amapa,Mar�o,0
-2007,Amapa,Mar�o,0
-2008,Amapa,Mar�o,1
-2009,Amapa,Mar�o,1
-2010,Amapa,Mar�o,2
-2011,Amapa,Mar�o,0
-2012,Amapa,Mar�o,1
-2013,Amapa,Mar�o,0
-2014,Amapa,Mar�o,1
-2015,Amapa,Mar�o,2
-2016,Amapa,Mar�o,5
-2017,Amapa,Mar�o,0
+1998,Amapa,March,0
+1999,Amapa,March,2
+2000,Amapa,March,0
+2001,Amapa,March,0
+2002,Amapa,March,0
+2003,Amapa,March,1
+2004,Amapa,March,0
+2005,Amapa,March,0
+2006,Amapa,March,0
+2007,Amapa,March,0
+2008,Amapa,March,1
+2009,Amapa,March,1
+2010,Amapa,March,2
+2011,Amapa,March,0
+2012,Amapa,March,1
+2013,Amapa,March,0
+2014,Amapa,March,1
+2015,Amapa,March,2
+2016,Amapa,March,5
+2017,Amapa,March,0
 1998,Amapa,Abril,0
 1999,Amapa,Abril,0
 2000,Amapa,Abril,0
@@ -757,26 +736,26 @@ year,state,month,number
 2015,Amazonas,Fevereiro,107
 2016,Amazonas,Fevereiro,275
 2017,Amazonas,Fevereiro,52
-1998,Amazonas,Mar�o,0
-1999,Amazonas,Mar�o,7
-2000,Amazonas,Mar�o,69
-2001,Amazonas,Mar�o,6
-2002,Amazonas,Mar�o,5
-2003,Amazonas,Mar�o,64
-2004,Amazonas,Mar�o,6
-2005,Amazonas,Mar�o,12
-2006,Amazonas,Mar�o,20
-2007,Amazonas,Mar�o,6
-2008,Amazonas,Mar�o,10
-2009,Amazonas,Mar�o,11
-2010,Amazonas,Mar�o,116
-2011,Amazonas,Mar�o,49
-2012,Amazonas,Mar�o,17
-2013,Amazonas,Mar�o,49
-2014,Amazonas,Mar�o,50
-2015,Amazonas,Mar�o,46
-2016,Amazonas,Mar�o,140
-2017,Amazonas,Mar�o,45
+1998,Amazonas,March,0
+1999,Amazonas,March,7
+2000,Amazonas,March,69
+2001,Amazonas,March,6
+2002,Amazonas,March,5
+2003,Amazonas,March,64
+2004,Amazonas,March,6
+2005,Amazonas,March,12
+2006,Amazonas,March,20
+2007,Amazonas,March,6
+2008,Amazonas,March,10
+2009,Amazonas,March,11
+2010,Amazonas,March,116
+2011,Amazonas,March,49
+2012,Amazonas,March,17
+2013,Amazonas,March,49
+2014,Amazonas,March,50
+2015,Amazonas,March,46
+2016,Amazonas,March,140
+2017,Amazonas,March,45
 1998,Amazonas,Abril,0
 1999,Amazonas,Abril,2
 2000,Amazonas,Abril,18
@@ -996,26 +975,26 @@ year,state,month,number
 2015,Bahia,Fevereiro,143
 2016,Bahia,Fevereiro,418
 2017,Bahia,Fevereiro,100
-1998,Bahia,Mar�o,0
-1999,Bahia,Mar�o,83
-2000,Bahia,Mar�o,65
-2001,Bahia,Mar�o,4
-2002,Bahia,Mar�o,146
-2003,Bahia,Mar�o,274
-2004,Bahia,Mar�o,115
-2005,Bahia,Mar�o,158
-2006,Bahia,Mar�o,199
-2007,Bahia,Mar�o,141
-2008,Bahia,Mar�o,135
-2009,Bahia,Mar�o,249
-2010,Bahia,Mar�o,156
-2011,Bahia,Mar�o,90
-2012,Bahia,Mar�o,404
-2013,Bahia,Mar�o,363
-2014,Bahia,Mar�o,148
-2015,Bahia,Mar�o,229
-2016,Bahia,Mar�o,281
-2017,Bahia,Mar�o,163
+1998,Bahia,March,0
+1999,Bahia,March,83
+2000,Bahia,March,65
+2001,Bahia,March,4
+2002,Bahia,March,146
+2003,Bahia,March,274
+2004,Bahia,March,115
+2005,Bahia,March,158
+2006,Bahia,March,199
+2007,Bahia,March,141
+2008,Bahia,March,135
+2009,Bahia,March,249
+2010,Bahia,March,156
+2011,Bahia,March,90
+2012,Bahia,March,404
+2013,Bahia,March,363
+2014,Bahia,March,148
+2015,Bahia,March,229
+2016,Bahia,March,281
+2017,Bahia,March,163
 1998,Bahia,Abril,0
 1999,Bahia,Abril,55
 2000,Bahia,Abril,23
@@ -1235,26 +1214,26 @@ year,state,month,number
 2015,Ceara,Fevereiro,25
 2016,Ceara,Fevereiro,13
 2017,Ceara,Fevereiro,9
-1998,Ceara,Mar�o,0
-1999,Ceara,Mar�o,30
-2000,Ceara,Mar�o,9
-2001,Ceara,Mar�o,0
-2002,Ceara,Mar�o,17
-2003,Ceara,Mar�o,3
-2004,Ceara,Mar�o,1
-2005,Ceara,Mar�o,5
-2006,Ceara,Mar�o,3
-2007,Ceara,Mar�o,2
-2008,Ceara,Mar�o,2
-2009,Ceara,Mar�o,3
-2010,Ceara,Mar�o,40
-2011,Ceara,Mar�o,6
-2012,Ceara,Mar�o,10
-2013,Ceara,Mar�o,17
-2014,Ceara,Mar�o,6
-2015,Ceara,Mar�o,20
-2016,Ceara,Mar�o,4
-2017,Ceara,Mar�o,4
+1998,Ceara,March,0
+1999,Ceara,March,30
+2000,Ceara,March,9
+2001,Ceara,March,0
+2002,Ceara,March,17
+2003,Ceara,March,3
+2004,Ceara,March,1
+2005,Ceara,March,5
+2006,Ceara,March,3
+2007,Ceara,March,2
+2008,Ceara,March,2
+2009,Ceara,March,3
+2010,Ceara,March,40
+2011,Ceara,March,6
+2012,Ceara,March,10
+2013,Ceara,March,17
+2014,Ceara,March,6
+2015,Ceara,March,20
+2016,Ceara,March,4
+2017,Ceara,March,4
 1998,Ceara,Abril,0
 1999,Ceara,Abril,6
 2000,Ceara,Abril,15
@@ -1474,26 +1453,26 @@ year,state,month,number
 2015,Distrito Federal,Fevereiro,0
 2016,Distrito Federal,Fevereiro,2
 2017,Distrito Federal,Fevereiro,0
-1998,Distrito Federal,Mar�o,0
-1999,Distrito Federal,Mar�o,0
-2000,Distrito Federal,Mar�o,0
-2001,Distrito Federal,Mar�o,0
-2002,Distrito Federal,Mar�o,0
-2003,Distrito Federal,Mar�o,0
-2004,Distrito Federal,Mar�o,0
-2005,Distrito Federal,Mar�o,0
-2006,Distrito Federal,Mar�o,0
-2007,Distrito Federal,Mar�o,1
-2008,Distrito Federal,Mar�o,2
-2009,Distrito Federal,Mar�o,0
-2010,Distrito Federal,Mar�o,0
-2011,Distrito Federal,Mar�o,0
-2012,Distrito Federal,Mar�o,0
-2013,Distrito Federal,Mar�o,1
-2014,Distrito Federal,Mar�o,1
-2015,Distrito Federal,Mar�o,0
-2016,Distrito Federal,Mar�o,1
-2017,Distrito Federal,Mar�o,0
+1998,Distrito Federal,March,0
+1999,Distrito Federal,March,0
+2000,Distrito Federal,March,0
+2001,Distrito Federal,March,0
+2002,Distrito Federal,March,0
+2003,Distrito Federal,March,0
+2004,Distrito Federal,March,0
+2005,Distrito Federal,March,0
+2006,Distrito Federal,March,0
+2007,Distrito Federal,March,1
+2008,Distrito Federal,March,2
+2009,Distrito Federal,March,0
+2010,Distrito Federal,March,0
+2011,Distrito Federal,March,0
+2012,Distrito Federal,March,0
+2013,Distrito Federal,March,1
+2014,Distrito Federal,March,1
+2015,Distrito Federal,March,0
+2016,Distrito Federal,March,1
+2017,Distrito Federal,March,0
 1998,Distrito Federal,Abril,0
 1999,Distrito Federal,Abril,0
 2000,Distrito Federal,Abril,0
@@ -1713,26 +1692,26 @@ year,state,month,number
 2015,Espirito Santo,Fevereiro,60
 2016,Espirito Santo,Fevereiro,24
 2017,Espirito Santo,Fevereiro,8
-1998,Espirito Santo,Mar�o,0
-1999,Espirito Santo,Mar�o,8
-2000,Espirito Santo,Mar�o,1
-2001,Espirito Santo,Mar�o,2
-2002,Espirito Santo,Mar�o,4
-2003,Espirito Santo,Mar�o,28
-2004,Espirito Santo,Mar�o,3
-2005,Espirito Santo,Mar�o,3
-2006,Espirito Santo,Mar�o,14
-2007,Espirito Santo,Mar�o,9
-2008,Espirito Santo,Mar�o,5
-2009,Espirito Santo,Mar�o,11
-2010,Espirito Santo,Mar�o,3
-2011,Espirito Santo,Mar�o,5
-2012,Espirito Santo,Mar�o,35
-2013,Espirito Santo,Mar�o,13
-2014,Espirito Santo,Mar�o,15
-2015,Espirito Santo,Mar�o,25
-2016,Espirito Santo,Mar�o,107
-2017,Espirito Santo,Mar�o,9
+1998,Espirito Santo,March,0
+1999,Espirito Santo,March,8
+2000,Espirito Santo,March,1
+2001,Espirito Santo,March,2
+2002,Espirito Santo,March,4
+2003,Espirito Santo,March,28
+2004,Espirito Santo,March,3
+2005,Espirito Santo,March,3
+2006,Espirito Santo,March,14
+2007,Espirito Santo,March,9
+2008,Espirito Santo,March,5
+2009,Espirito Santo,March,11
+2010,Espirito Santo,March,3
+2011,Espirito Santo,March,5
+2012,Espirito Santo,March,35
+2013,Espirito Santo,March,13
+2014,Espirito Santo,March,15
+2015,Espirito Santo,March,25
+2016,Espirito Santo,March,107
+2017,Espirito Santo,March,9
 1998,Espirito Santo,Abril,0
 1999,Espirito Santo,Abril,2
 2000,Espirito Santo,Abril,3
@@ -1952,26 +1931,26 @@ year,state,month,number
 2015,Goias,Fevereiro,53
 2016,Goias,Fevereiro,117
 2017,Goias,Fevereiro,75
-1998,Goias,Mar�o,0
-1999,Goias,Mar�o,1
-2000,Goias,Mar�o,4
-2001,Goias,Mar�o,10
-2002,Goias,Mar�o,48
-2003,Goias,Mar�o,29
-2004,Goias,Mar�o,36
-2005,Goias,Mar�o,36
-2006,Goias,Mar�o,29
-2007,Goias,Mar�o,49
-2008,Goias,Mar�o,20
-2009,Goias,Mar�o,32
-2010,Goias,Mar�o,65
-2011,Goias,Mar�o,19
-2012,Goias,Mar�o,57
-2013,Goias,Mar�o,79
-2014,Goias,Mar�o,80
-2015,Goias,Mar�o,76
-2016,Goias,Mar�o,136
-2017,Goias,Mar�o,115
+1998,Goias,March,0
+1999,Goias,March,1
+2000,Goias,March,4
+2001,Goias,March,10
+2002,Goias,March,48
+2003,Goias,March,29
+2004,Goias,March,36
+2005,Goias,March,36
+2006,Goias,March,29
+2007,Goias,March,49
+2008,Goias,March,20
+2009,Goias,March,32
+2010,Goias,March,65
+2011,Goias,March,19
+2012,Goias,March,57
+2013,Goias,March,79
+2014,Goias,March,80
+2015,Goias,March,76
+2016,Goias,March,136
+2017,Goias,March,115
 1998,Goias,Abril,0
 1999,Goias,Abril,25
 2000,Goias,Abril,16
@@ -2191,26 +2170,26 @@ year,state,month,number
 2015,Maranhao,Fevereiro,95
 2016,Maranhao,Fevereiro,318
 2017,Maranhao,Fevereiro,47
-1998,Maranhao,Mar�o,0
-1999,Maranhao,Mar�o,17
-2000,Maranhao,Mar�o,6
-2001,Maranhao,Mar�o,0
-2002,Maranhao,Mar�o,16
-2003,Maranhao,Mar�o,16
-2004,Maranhao,Mar�o,18
-2005,Maranhao,Mar�o,9
-2006,Maranhao,Mar�o,14
-2007,Maranhao,Mar�o,52
-2008,Maranhao,Mar�o,4
-2009,Maranhao,Mar�o,33
-2010,Maranhao,Mar�o,82
-2011,Maranhao,Mar�o,22
-2012,Maranhao,Mar�o,49
-2013,Maranhao,Mar�o,30
-2014,Maranhao,Mar�o,59
-2015,Maranhao,Mar�o,53
-2016,Maranhao,Mar�o,113
-2017,Maranhao,Mar�o,32
+1998,Maranhao,March,0
+1999,Maranhao,March,17
+2000,Maranhao,March,6
+2001,Maranhao,March,0
+2002,Maranhao,March,16
+2003,Maranhao,March,16
+2004,Maranhao,March,18
+2005,Maranhao,March,9
+2006,Maranhao,March,14
+2007,Maranhao,March,52
+2008,Maranhao,March,4
+2009,Maranhao,March,33
+2010,Maranhao,March,82
+2011,Maranhao,March,22
+2012,Maranhao,March,49
+2013,Maranhao,March,30
+2014,Maranhao,March,59
+2015,Maranhao,March,53
+2016,Maranhao,March,113
+2017,Maranhao,March,32
 1998,Maranhao,Abril,0
 1999,Maranhao,Abril,4
 2000,Maranhao,Abril,6
@@ -2430,26 +2409,26 @@ year,state,month,number
 2015,Mato Grosso,Fevereiro,542
 2016,Mato Grosso,Fevereiro,1.05
 2017,Mato Grosso,Fevereiro,337
-1998,Mato Grosso,Mar�o,0
-1999,Mato Grosso,Mar�o,18
-2000,Mato Grosso,Mar�o,60
-2001,Mato Grosso,Mar�o,24
-2002,Mato Grosso,Mar�o,103
-2003,Mato Grosso,Mar�o,554
-2004,Mato Grosso,Mar�o,743
-2005,Mato Grosso,Mar�o,362
-2006,Mato Grosso,Mar�o,448
-2007,Mato Grosso,Mar�o,476
-2008,Mato Grosso,Mar�o,180
-2009,Mato Grosso,Mar�o,325
-2010,Mato Grosso,Mar�o,605
-2011,Mato Grosso,Mar�o,252
-2012,Mato Grosso,Mar�o,423
-2013,Mato Grosso,Mar�o,563
-2014,Mato Grosso,Mar�o,655
-2015,Mato Grosso,Mar�o,705
-2016,Mato Grosso,Mar�o,1.085
-2017,Mato Grosso,Mar�o,719
+1998,Mato Grosso,March,0
+1999,Mato Grosso,March,18
+2000,Mato Grosso,March,60
+2001,Mato Grosso,March,24
+2002,Mato Grosso,March,103
+2003,Mato Grosso,March,554
+2004,Mato Grosso,March,743
+2005,Mato Grosso,March,362
+2006,Mato Grosso,March,448
+2007,Mato Grosso,March,476
+2008,Mato Grosso,March,180
+2009,Mato Grosso,March,325
+2010,Mato Grosso,March,605
+2011,Mato Grosso,March,252
+2012,Mato Grosso,March,423
+2013,Mato Grosso,March,563
+2014,Mato Grosso,March,655
+2015,Mato Grosso,March,705
+2016,Mato Grosso,March,1.085
+2017,Mato Grosso,March,719
 1998,Mato Grosso,Abril,0
 1999,Mato Grosso,Abril,76
 2000,Mato Grosso,Abril,59
@@ -2669,26 +2648,26 @@ year,state,month,number
 2015,Mato Grosso,Fevereiro,148
 2016,Mato Grosso,Fevereiro,187
 2017,Mato Grosso,Fevereiro,165
-1998,Mato Grosso,Mar�o,0
-1999,Mato Grosso,Mar�o,100
-2000,Mato Grosso,Mar�o,23
-2001,Mato Grosso,Mar�o,39
-2002,Mato Grosso,Mar�o,115
-2003,Mato Grosso,Mar�o,137
-2004,Mato Grosso,Mar�o,225
-2005,Mato Grosso,Mar�o,158
-2006,Mato Grosso,Mar�o,137
-2007,Mato Grosso,Mar�o,137
-2008,Mato Grosso,Mar�o,97
-2009,Mato Grosso,Mar�o,118
-2010,Mato Grosso,Mar�o,149
-2011,Mato Grosso,Mar�o,37
-2012,Mato Grosso,Mar�o,169
-2013,Mato Grosso,Mar�o,158
-2014,Mato Grosso,Mar�o,95
-2015,Mato Grosso,Mar�o,190
-2016,Mato Grosso,Mar�o,143
-2017,Mato Grosso,Mar�o,170
+1998,Mato Grosso,March,0
+1999,Mato Grosso,March,100
+2000,Mato Grosso,March,23
+2001,Mato Grosso,March,39
+2002,Mato Grosso,March,115
+2003,Mato Grosso,March,137
+2004,Mato Grosso,March,225
+2005,Mato Grosso,March,158
+2006,Mato Grosso,March,137
+2007,Mato Grosso,March,137
+2008,Mato Grosso,March,97
+2009,Mato Grosso,March,118
+2010,Mato Grosso,March,149
+2011,Mato Grosso,March,37
+2012,Mato Grosso,March,169
+2013,Mato Grosso,March,158
+2014,Mato Grosso,March,95
+2015,Mato Grosso,March,190
+2016,Mato Grosso,March,143
+2017,Mato Grosso,March,170
 1998,Mato Grosso,Abril,0
 1999,Mato Grosso,Abril,97
 2000,Mato Grosso,Abril,90
@@ -2908,26 +2887,26 @@ year,state,month,number
 2015,Minas Gerais,Fevereiro,84
 2016,Minas Gerais,Fevereiro,207
 2017,Minas Gerais,Fevereiro,61
-1998,Minas Gerais,Mar�o,0
-1999,Minas Gerais,Mar�o,13
-2000,Minas Gerais,Mar�o,24
-2001,Minas Gerais,Mar�o,13
-2002,Minas Gerais,Mar�o,62
-2003,Minas Gerais,Mar�o,81
-2004,Minas Gerais,Mar�o,81
-2005,Minas Gerais,Mar�o,107
-2006,Minas Gerais,Mar�o,69
-2007,Minas Gerais,Mar�o,155
-2008,Minas Gerais,Mar�o,61
-2009,Minas Gerais,Mar�o,106
-2010,Minas Gerais,Mar�o,109
-2011,Minas Gerais,Mar�o,67
-2012,Minas Gerais,Mar�o,152
-2013,Minas Gerais,Mar�o,110
-2014,Minas Gerais,Mar�o,77
-2015,Minas Gerais,Mar�o,80
-2016,Minas Gerais,Mar�o,123
-2017,Minas Gerais,Mar�o,105
+1998,Minas Gerais,March,0
+1999,Minas Gerais,March,13
+2000,Minas Gerais,March,24
+2001,Minas Gerais,March,13
+2002,Minas Gerais,March,62
+2003,Minas Gerais,March,81
+2004,Minas Gerais,March,81
+2005,Minas Gerais,March,107
+2006,Minas Gerais,March,69
+2007,Minas Gerais,March,155
+2008,Minas Gerais,March,61
+2009,Minas Gerais,March,106
+2010,Minas Gerais,March,109
+2011,Minas Gerais,March,67
+2012,Minas Gerais,March,152
+2013,Minas Gerais,March,110
+2014,Minas Gerais,March,77
+2015,Minas Gerais,March,80
+2016,Minas Gerais,March,123
+2017,Minas Gerais,March,105
 1998,Minas Gerais,Abril,0
 1999,Minas Gerais,Abril,27
 2000,Minas Gerais,Abril,49
@@ -3147,26 +3126,26 @@ year,state,month,number
 2015,Par�,Fevereiro,108
 2016,Par�,Fevereiro,430
 2017,Par�,Fevereiro,14
-1998,Par�,Mar�o,0
-1999,Par�,Mar�o,7
-2000,Par�,Mar�o,181
-2001,Par�,Mar�o,0
-2002,Par�,Mar�o,14
-2003,Par�,Mar�o,27
-2004,Par�,Mar�o,22
-2005,Par�,Mar�o,21
-2006,Par�,Mar�o,10
-2007,Par�,Mar�o,6
-2008,Par�,Mar�o,4
-2009,Par�,Mar�o,4
-2010,Par�,Mar�o,110
-2011,Par�,Mar�o,21
-2012,Par�,Mar�o,30
-2013,Par�,Mar�o,19
-2014,Par�,Mar�o,34
-2015,Par�,Mar�o,61
-2016,Par�,Mar�o,81
-2017,Par�,Mar�o,42
+1998,Par�,March,0
+1999,Par�,March,7
+2000,Par�,March,181
+2001,Par�,March,0
+2002,Par�,March,14
+2003,Par�,March,27
+2004,Par�,March,22
+2005,Par�,March,21
+2006,Par�,March,10
+2007,Par�,March,6
+2008,Par�,March,4
+2009,Par�,March,4
+2010,Par�,March,110
+2011,Par�,March,21
+2012,Par�,March,30
+2013,Par�,March,19
+2014,Par�,March,34
+2015,Par�,March,61
+2016,Par�,March,81
+2017,Par�,March,42
 1998,Par�,Abril,0
 1999,Par�,Abril,6
 2000,Par�,Abril,40
@@ -3386,26 +3365,26 @@ year,state,month,number
 2015,Paraiba,Fevereiro,15
 2016,Paraiba,Fevereiro,4
 2017,Paraiba,Fevereiro,8
-1998,Paraiba,Mar�o,0
-1999,Paraiba,Mar�o,1
-2000,Paraiba,Mar�o,5
-2001,Paraiba,Mar�o,0
-2002,Paraiba,Mar�o,3
-2003,Paraiba,Mar�o,0
-2004,Paraiba,Mar�o,3
-2005,Paraiba,Mar�o,13
-2006,Paraiba,Mar�o,4
-2007,Paraiba,Mar�o,1
-2008,Paraiba,Mar�o,8
-2009,Paraiba,Mar�o,2
-2010,Paraiba,Mar�o,16
-2011,Paraiba,Mar�o,6
-2012,Paraiba,Mar�o,4
-2013,Paraiba,Mar�o,3
-2014,Paraiba,Mar�o,18
-2015,Paraiba,Mar�o,7
-2016,Paraiba,Mar�o,1
-2017,Paraiba,Mar�o,2
+1998,Paraiba,March,0
+1999,Paraiba,March,1
+2000,Paraiba,March,5
+2001,Paraiba,March,0
+2002,Paraiba,March,3
+2003,Paraiba,March,0
+2004,Paraiba,March,3
+2005,Paraiba,March,13
+2006,Paraiba,March,4
+2007,Paraiba,March,1
+2008,Paraiba,March,8
+2009,Paraiba,March,2
+2010,Paraiba,March,16
+2011,Paraiba,March,6
+2012,Paraiba,March,4
+2013,Paraiba,March,3
+2014,Paraiba,March,18
+2015,Paraiba,March,7
+2016,Paraiba,March,1
+2017,Paraiba,March,2
 1998,Paraiba,Abril,0
 1999,Paraiba,Abril,3
 2000,Paraiba,Abril,1
@@ -3625,26 +3604,26 @@ year,state,month,number
 2015,Paraiba,Fevereiro,58
 2016,Paraiba,Fevereiro,31
 2017,Paraiba,Fevereiro,60
-1998,Paraiba,Mar�o,0
-1999,Paraiba,Mar�o,40
-2000,Paraiba,Mar�o,52
-2001,Paraiba,Mar�o,12
-2002,Paraiba,Mar�o,18
-2003,Paraiba,Mar�o,76
-2004,Paraiba,Mar�o,83
-2005,Paraiba,Mar�o,84
-2006,Paraiba,Mar�o,56
-2007,Paraiba,Mar�o,54
-2008,Paraiba,Mar�o,43
-2009,Paraiba,Mar�o,57
-2010,Paraiba,Mar�o,22
-2011,Paraiba,Mar�o,21
-2012,Paraiba,Mar�o,55
-2013,Paraiba,Mar�o,18
-2014,Paraiba,Mar�o,42
-2015,Paraiba,Mar�o,55
-2016,Paraiba,Mar�o,63
-2017,Paraiba,Mar�o,43
+1998,Paraiba,March,0
+1999,Paraiba,March,40
+2000,Paraiba,March,52
+2001,Paraiba,March,12
+2002,Paraiba,March,18
+2003,Paraiba,March,76
+2004,Paraiba,March,83
+2005,Paraiba,March,84
+2006,Paraiba,March,56
+2007,Paraiba,March,54
+2008,Paraiba,March,43
+2009,Paraiba,March,57
+2010,Paraiba,March,22
+2011,Paraiba,March,21
+2012,Paraiba,March,55
+2013,Paraiba,March,18
+2014,Paraiba,March,42
+2015,Paraiba,March,55
+2016,Paraiba,March,63
+2017,Paraiba,March,43
 1998,Paraiba,Abril,0
 1999,Paraiba,Abril,39
 2000,Paraiba,Abril,51
@@ -3864,26 +3843,26 @@ year,state,month,number
 2015,Pernambuco,Fevereiro,55
 2016,Pernambuco,Fevereiro,19
 2017,Pernambuco,Fevereiro,23
-1998,Pernambuco,Mar�o,0
-1999,Pernambuco,Mar�o,27
-2000,Pernambuco,Mar�o,14
-2001,Pernambuco,Mar�o,0
-2002,Pernambuco,Mar�o,24
-2003,Pernambuco,Mar�o,9
-2004,Pernambuco,Mar�o,6
-2005,Pernambuco,Mar�o,45
-2006,Pernambuco,Mar�o,18
-2007,Pernambuco,Mar�o,4
-2008,Pernambuco,Mar�o,32
-2009,Pernambuco,Mar�o,15
-2010,Pernambuco,Mar�o,59
-2011,Pernambuco,Mar�o,39
-2012,Pernambuco,Mar�o,44
-2013,Pernambuco,Mar�o,40
-2014,Pernambuco,Mar�o,36
-2015,Pernambuco,Mar�o,33
-2016,Pernambuco,Mar�o,4
-2017,Pernambuco,Mar�o,7
+1998,Pernambuco,March,0
+1999,Pernambuco,March,27
+2000,Pernambuco,March,14
+2001,Pernambuco,March,0
+2002,Pernambuco,March,24
+2003,Pernambuco,March,9
+2004,Pernambuco,March,6
+2005,Pernambuco,March,45
+2006,Pernambuco,March,18
+2007,Pernambuco,March,4
+2008,Pernambuco,March,32
+2009,Pernambuco,March,15
+2010,Pernambuco,March,59
+2011,Pernambuco,March,39
+2012,Pernambuco,March,44
+2013,Pernambuco,March,40
+2014,Pernambuco,March,36
+2015,Pernambuco,March,33
+2016,Pernambuco,March,4
+2017,Pernambuco,March,7
 1998,Pernambuco,Abril,0
 1999,Pernambuco,Abril,2
 2000,Pernambuco,Abril,1
@@ -4103,26 +4082,26 @@ year,state,month,number
 2015,Piau,Fevereiro,38
 2016,Piau,Fevereiro,97
 2017,Piau,Fevereiro,24
-1998,Piau,Mar�o,0
-1999,Piau,Mar�o,4
-2000,Piau,Mar�o,14
-2001,Piau,Mar�o,2
-2002,Piau,Mar�o,63
-2003,Piau,Mar�o,15
-2004,Piau,Mar�o,27
-2005,Piau,Mar�o,13
-2006,Piau,Mar�o,18
-2007,Piau,Mar�o,31
-2008,Piau,Mar�o,4
-2009,Piau,Mar�o,17
-2010,Piau,Mar�o,47
-2011,Piau,Mar�o,15
-2012,Piau,Mar�o,71
-2013,Piau,Mar�o,14
-2014,Piau,Mar�o,88
-2015,Piau,Mar�o,35
-2016,Piau,Mar�o,53
-2017,Piau,Mar�o,25
+1998,Piau,March,0
+1999,Piau,March,4
+2000,Piau,March,14
+2001,Piau,March,2
+2002,Piau,March,63
+2003,Piau,March,15
+2004,Piau,March,27
+2005,Piau,March,13
+2006,Piau,March,18
+2007,Piau,March,31
+2008,Piau,March,4
+2009,Piau,March,17
+2010,Piau,March,47
+2011,Piau,March,15
+2012,Piau,March,71
+2013,Piau,March,14
+2014,Piau,March,88
+2015,Piau,March,35
+2016,Piau,March,53
+2017,Piau,March,25
 1998,Piau,Abril,0
 1999,Piau,Abril,10
 2000,Piau,Abril,15
@@ -4342,26 +4321,26 @@ year,state,month,number
 2015,Rio,Fevereiro,36
 2016,Rio,Fevereiro,16
 2017,Rio,Fevereiro,34
-1998,Rio,Mar�o,0
-1999,Rio,Mar�o,0
-2000,Rio,Mar�o,0
-2001,Rio,Mar�o,0
-2002,Rio,Mar�o,1
-2003,Rio,Mar�o,23
-2004,Rio,Mar�o,4
-2005,Rio,Mar�o,7
-2006,Rio,Mar�o,8
-2007,Rio,Mar�o,27
-2008,Rio,Mar�o,2
-2009,Rio,Mar�o,5
-2010,Rio,Mar�o,10
-2011,Rio,Mar�o,7
-2012,Rio,Mar�o,20
-2013,Rio,Mar�o,9
-2014,Rio,Mar�o,38
-2015,Rio,Mar�o,23
-2016,Rio,Mar�o,16
-2017,Rio,Mar�o,10
+1998,Rio,March,0
+1999,Rio,March,0
+2000,Rio,March,0
+2001,Rio,March,0
+2002,Rio,March,1
+2003,Rio,March,23
+2004,Rio,March,4
+2005,Rio,March,7
+2006,Rio,March,8
+2007,Rio,March,27
+2008,Rio,March,2
+2009,Rio,March,5
+2010,Rio,March,10
+2011,Rio,March,7
+2012,Rio,March,20
+2013,Rio,March,9
+2014,Rio,March,38
+2015,Rio,March,23
+2016,Rio,March,16
+2017,Rio,March,10
 1998,Rio,Abril,0
 1999,Rio,Abril,1
 2000,Rio,Abril,2
@@ -4820,26 +4799,26 @@ year,state,month,number
 2015,Rio,Fevereiro,41
 2016,Rio,Fevereiro,55
 2017,Rio,Fevereiro,31
-1998,Rio,Mar�o,0
-1999,Rio,Mar�o,38
-2000,Rio,Mar�o,51
-2001,Rio,Mar�o,11
-2002,Rio,Mar�o,26
-2003,Rio,Mar�o,27
-2004,Rio,Mar�o,149
-2005,Rio,Mar�o,153
-2006,Rio,Mar�o,76
-2007,Rio,Mar�o,8
-2008,Rio,Mar�o,38
-2009,Rio,Mar�o,41
-2010,Rio,Mar�o,21
-2011,Rio,Mar�o,31
-2012,Rio,Mar�o,50
-2013,Rio,Mar�o,44
-2014,Rio,Mar�o,58
-2015,Rio,Mar�o,108
-2016,Rio,Mar�o,30
-2017,Rio,Mar�o,34
+1998,Rio,March,0
+1999,Rio,March,38
+2000,Rio,March,51
+2001,Rio,March,11
+2002,Rio,March,26
+2003,Rio,March,27
+2004,Rio,March,149
+2005,Rio,March,153
+2006,Rio,March,76
+2007,Rio,March,8
+2008,Rio,March,38
+2009,Rio,March,41
+2010,Rio,March,21
+2011,Rio,March,31
+2012,Rio,March,50
+2013,Rio,March,44
+2014,Rio,March,58
+2015,Rio,March,108
+2016,Rio,March,30
+2017,Rio,March,34
 1998,Rio,Abril,0
 1999,Rio,Abril,12
 2000,Rio,Abril,1
@@ -5059,26 +5038,26 @@ year,state,month,number
 2015,Rondonia,Fevereiro,22
 2016,Rondonia,Fevereiro,88
 2017,Rondonia,Fevereiro,10
-1998,Rondonia,Mar�o,0
-1999,Rondonia,Mar�o,8
-2000,Rondonia,Mar�o,9
-2001,Rondonia,Mar�o,0
-2002,Rondonia,Mar�o,1
-2003,Rondonia,Mar�o,13
-2004,Rondonia,Mar�o,20
-2005,Rondonia,Mar�o,17
-2006,Rondonia,Mar�o,15
-2007,Rondonia,Mar�o,20
-2008,Rondonia,Mar�o,2
-2009,Rondonia,Mar�o,12
-2010,Rondonia,Mar�o,11
-2011,Rondonia,Mar�o,6
-2012,Rondonia,Mar�o,6
-2013,Rondonia,Mar�o,23
-2014,Rondonia,Mar�o,13
-2015,Rondonia,Mar�o,15
-2016,Rondonia,Mar�o,25
-2017,Rondonia,Mar�o,21
+1998,Rondonia,March,0
+1999,Rondonia,March,8
+2000,Rondonia,March,9
+2001,Rondonia,March,0
+2002,Rondonia,March,1
+2003,Rondonia,March,13
+2004,Rondonia,March,20
+2005,Rondonia,March,17
+2006,Rondonia,March,15
+2007,Rondonia,March,20
+2008,Rondonia,March,2
+2009,Rondonia,March,12
+2010,Rondonia,March,11
+2011,Rondonia,March,6
+2012,Rondonia,March,6
+2013,Rondonia,March,23
+2014,Rondonia,March,13
+2015,Rondonia,March,15
+2016,Rondonia,March,25
+2017,Rondonia,March,21
 1998,Rondonia,Abril,0
 1999,Rondonia,Abril,3
 2000,Rondonia,Abril,0
@@ -5298,26 +5277,26 @@ year,state,month,number
 2015,Roraima,Fevereiro,418
 2016,Roraima,Fevereiro,171
 2017,Roraima,Fevereiro,129
-1998,Roraima,Mar�o,0
-1999,Roraima,Mar�o,98
-2000,Roraima,Mar�o,125
-2001,Roraima,Mar�o,1.108
-2002,Roraima,Mar�o,820
-2003,Roraima,Mar�o,1.131
-2004,Roraima,Mar�o,276
-2005,Roraima,Mar�o,244
-2006,Roraima,Mar�o,385
-2007,Roraima,Mar�o,665
-2008,Roraima,Mar�o,422
-2009,Roraima,Mar�o,176
-2010,Roraima,Mar�o,417
-2011,Roraima,Mar�o,91
-2012,Roraima,Mar�o,99
-2013,Roraima,Mar�o,179
-2014,Roraima,Mar�o,494
-2015,Roraima,Mar�o,163
-2016,Roraima,Mar�o,1.081
-2017,Roraima,Mar�o,216
+1998,Roraima,March,0
+1999,Roraima,March,98
+2000,Roraima,March,125
+2001,Roraima,March,1.108
+2002,Roraima,March,820
+2003,Roraima,March,1.131
+2004,Roraima,March,276
+2005,Roraima,March,244
+2006,Roraima,March,385
+2007,Roraima,March,665
+2008,Roraima,March,422
+2009,Roraima,March,176
+2010,Roraima,March,417
+2011,Roraima,March,91
+2012,Roraima,March,99
+2013,Roraima,March,179
+2014,Roraima,March,494
+2015,Roraima,March,163
+2016,Roraima,March,1.081
+2017,Roraima,March,216
 1998,Roraima,Abril,0
 1999,Roraima,Abril,16
 2000,Roraima,Abril,0
@@ -5537,26 +5516,26 @@ year,state,month,number
 2015,Santa Catarina,Fevereiro,23
 2016,Santa Catarina,Fevereiro,10
 2017,Santa Catarina,Fevereiro,31
-1998,Santa Catarina,Mar�o,0
-1999,Santa Catarina,Mar�o,7
-2000,Santa Catarina,Mar�o,46
-2001,Santa Catarina,Mar�o,1
-2002,Santa Catarina,Mar�o,12
-2003,Santa Catarina,Mar�o,58
-2004,Santa Catarina,Mar�o,73
-2005,Santa Catarina,Mar�o,92
-2006,Santa Catarina,Mar�o,48
-2007,Santa Catarina,Mar�o,23
-2008,Santa Catarina,Mar�o,14
-2009,Santa Catarina,Mar�o,33
-2010,Santa Catarina,Mar�o,9
-2011,Santa Catarina,Mar�o,8
-2012,Santa Catarina,Mar�o,65
-2013,Santa Catarina,Mar�o,14
-2014,Santa Catarina,Mar�o,15
-2015,Santa Catarina,Mar�o,37
-2016,Santa Catarina,Mar�o,21
-2017,Santa Catarina,Mar�o,12
+1998,Santa Catarina,March,0
+1999,Santa Catarina,March,7
+2000,Santa Catarina,March,46
+2001,Santa Catarina,March,1
+2002,Santa Catarina,March,12
+2003,Santa Catarina,March,58
+2004,Santa Catarina,March,73
+2005,Santa Catarina,March,92
+2006,Santa Catarina,March,48
+2007,Santa Catarina,March,23
+2008,Santa Catarina,March,14
+2009,Santa Catarina,March,33
+2010,Santa Catarina,March,9
+2011,Santa Catarina,March,8
+2012,Santa Catarina,March,65
+2013,Santa Catarina,March,14
+2014,Santa Catarina,March,15
+2015,Santa Catarina,March,37
+2016,Santa Catarina,March,21
+2017,Santa Catarina,March,12
 1998,Santa Catarina,Abril,0
 1999,Santa Catarina,Abril,0
 2000,Santa Catarina,Abril,7
@@ -5776,26 +5755,26 @@ year,state,month,number
 2015,Sao Paulo,Fevereiro,69
 2016,Sao Paulo,Fevereiro,188
 2017,Sao Paulo,Fevereiro,107
-1998,Sao Paulo,Mar�o,0
-1999,Sao Paulo,Mar�o,78
-2000,Sao Paulo,Mar�o,26
-2001,Sao Paulo,Mar�o,35
-2002,Sao Paulo,Mar�o,111
-2003,Sao Paulo,Mar�o,86
-2004,Sao Paulo,Mar�o,73
-2005,Sao Paulo,Mar�o,73
-2006,Sao Paulo,Mar�o,106
-2007,Sao Paulo,Mar�o,152
-2008,Sao Paulo,Mar�o,72
-2009,Sao Paulo,Mar�o,55
-2010,Sao Paulo,Mar�o,111
-2011,Sao Paulo,Mar�o,45
-2012,Sao Paulo,Mar�o,99
-2013,Sao Paulo,Mar�o,57
-2014,Sao Paulo,Mar�o,75
-2015,Sao Paulo,Mar�o,68
-2016,Sao Paulo,Mar�o,82
-2017,Sao Paulo,Mar�o,103
+1998,Sao Paulo,March,0
+1999,Sao Paulo,March,78
+2000,Sao Paulo,March,26
+2001,Sao Paulo,March,35
+2002,Sao Paulo,March,111
+2003,Sao Paulo,March,86
+2004,Sao Paulo,March,73
+2005,Sao Paulo,March,73
+2006,Sao Paulo,March,106
+2007,Sao Paulo,March,152
+2008,Sao Paulo,March,72
+2009,Sao Paulo,March,55
+2010,Sao Paulo,March,111
+2011,Sao Paulo,March,45
+2012,Sao Paulo,March,99
+2013,Sao Paulo,March,57
+2014,Sao Paulo,March,75
+2015,Sao Paulo,March,68
+2016,Sao Paulo,March,82
+2017,Sao Paulo,March,103
 1998,Sao Paulo,Abril,0
 1999,Sao Paulo,Abril,291
 2000,Sao Paulo,Abril,102
@@ -6015,26 +5994,26 @@ year,state,month,number
 2015,Sergipe,Fevereiro,40
 2016,Sergipe,Fevereiro,22
 2017,Sergipe,Fevereiro,18
-1998,Sergipe,Mar�o,0
-1999,Sergipe,Mar�o,18
-2000,Sergipe,Mar�o,6
-2001,Sergipe,Mar�o,1
-2002,Sergipe,Mar�o,7
-2003,Sergipe,Mar�o,62
-2004,Sergipe,Mar�o,36
-2005,Sergipe,Mar�o,28
-2006,Sergipe,Mar�o,41
-2007,Sergipe,Mar�o,2
-2008,Sergipe,Mar�o,43
-2009,Sergipe,Mar�o,29
-2010,Sergipe,Mar�o,44
-2011,Sergipe,Mar�o,47
-2012,Sergipe,Mar�o,71
-2013,Sergipe,Mar�o,67
-2014,Sergipe,Mar�o,33
-2015,Sergipe,Mar�o,49
-2016,Sergipe,Mar�o,26
-2017,Sergipe,Mar�o,16
+1998,Sergipe,March,0
+1999,Sergipe,March,18
+2000,Sergipe,March,6
+2001,Sergipe,March,1
+2002,Sergipe,March,7
+2003,Sergipe,March,62
+2004,Sergipe,March,36
+2005,Sergipe,March,28
+2006,Sergipe,March,41
+2007,Sergipe,March,2
+2008,Sergipe,March,43
+2009,Sergipe,March,29
+2010,Sergipe,March,44
+2011,Sergipe,March,47
+2012,Sergipe,March,71
+2013,Sergipe,March,67
+2014,Sergipe,March,33
+2015,Sergipe,March,49
+2016,Sergipe,March,26
+2017,Sergipe,March,16
 1998,Sergipe,Abril,0
 1999,Sergipe,Abril,6
 2000,Sergipe,Abril,1
@@ -6254,26 +6233,26 @@ year,state,month,number
 2015,Tocantins,Fevereiro,65
 2016,Tocantins,Fevereiro,383
 2017,Tocantins,Fevereiro,25
-1998,Tocantins,Mar�o,0
-1999,Tocantins,Mar�o,1
-2000,Tocantins,Mar�o,4
-2001,Tocantins,Mar�o,0
-2002,Tocantins,Mar�o,33
-2003,Tocantins,Mar�o,19
-2004,Tocantins,Mar�o,23
-2005,Tocantins,Mar�o,13
-2006,Tocantins,Mar�o,11
-2007,Tocantins,Mar�o,99
-2008,Tocantins,Mar�o,4
-2009,Tocantins,Mar�o,23
-2010,Tocantins,Mar�o,120
-2011,Tocantins,Mar�o,16
-2012,Tocantins,Mar�o,80
-2013,Tocantins,Mar�o,60
-2014,Tocantins,Mar�o,58
-2015,Tocantins,Mar�o,85
-2016,Tocantins,Mar�o,165
-2017,Tocantins,Mar�o,98
+1998,Tocantins,March,0
+1999,Tocantins,March,1
+2000,Tocantins,March,4
+2001,Tocantins,March,0
+2002,Tocantins,March,33
+2003,Tocantins,March,19
+2004,Tocantins,March,23
+2005,Tocantins,March,13
+2006,Tocantins,March,11
+2007,Tocantins,March,99
+2008,Tocantins,March,4
+2009,Tocantins,March,23
+2010,Tocantins,March,120
+2011,Tocantins,March,16
+2012,Tocantins,March,80
+2013,Tocantins,March,60
+2014,Tocantins,March,58
+2015,Tocantins,March,85
+2016,Tocantins,March,165
+2017,Tocantins,March,98
 1998,Tocantins,Abril,0
 1999,Tocantins,Abril,9
 2000,Tocantins,Abril,0

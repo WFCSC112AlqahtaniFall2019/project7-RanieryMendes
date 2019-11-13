@@ -3,6 +3,8 @@
 //
 #include <iostream>
 #include <string>
+#include <fstream>
+
 using namespace std;
 
 #ifndef PROJECT7_DATA_H
@@ -15,11 +17,9 @@ public:
     string month;
     string state;
     string numberOfFires;
-    ostream& operator<< ( Data obj);
+    friend ostream & operator << (ostream &out, const Data& printData);
     bool operator> (Data objComp);
-
-
-
+    void operator<<(ostream &out);
 };
 
 #endif //PROJECT7_DATA_H

@@ -23,7 +23,7 @@ public:
     LinkedList();
     LinkedList(const LinkedList& list);
     const LinkedList& operator=(LinkedList rhs);
-    virtual void print(ostream &os);
+     void print(ostream &os);
 
     void pop_head();
     ~LinkedList();

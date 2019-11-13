@@ -6,6 +6,8 @@
 
 #include "LinkedList.h"
 #include "Stack.h"
+#include <fstream>
+#include <iostream>
 
 using namespace std;
 Node ::Node(const Data &d, Node *n) {
@@ -47,10 +49,15 @@ const LinkedList& LinkedList::operator=(LinkedList rhs) {
 void LinkedList::print(ostream &os) {
     // start at the head of the list
     Node *curr = head;
+
     while (curr != nullptr) {
 
-        curr->data.operator<<(curr->data) << endl; // use overloaded output operator to print
-        curr = curr->next; // go to next node in list
+          os <<curr->data;
+         curr->data.operator<<(os); // use overloaded output operator to print
+         curr = curr->next; // go to next node in list
+
+        //cout << curr->data << endl; // use overloaded output operator to print
+       // curr = curr->next; // go to next node in list
 
     }
 }
