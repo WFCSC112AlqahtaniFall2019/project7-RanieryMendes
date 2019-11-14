@@ -8,6 +8,17 @@
 
 using namespace std;
 
+//Glossary  about Data . Translation of month names
+/*Abril = April
+ Maio = May
+ Junho = June
+ Julho = July
+ Agosto =August
+ Setembro = September
+ Outubro = October
+ Novembro = November
+ Dezembro = December
+*/
 int main() {
 
     cout << "Opening program" << endl;
@@ -36,7 +47,7 @@ int main() {
     Stack NewObjToPush;
 
     // for loop to read data from the file up to the end of the file
-    for (int i=0; i< 6434; i++) {
+    for (int i =0; i<6434; i++) {
         Data objFromInput;
 
         //clear ifstream object for stack and do it again after each input that is taken in
