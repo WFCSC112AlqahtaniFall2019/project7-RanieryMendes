@@ -17,9 +17,9 @@ public:
     string month;
     string state;
     string numberOfFires;
-    friend ostream & operator << (ostream &out, const Data& printData);
+    friend ostream& operator << (ostream &out, const Data& printData);
     bool operator> (Data objComp);
-    void operator<<(ostream &out);
+    ostream& operator<<(ostream &out);
 };
 
 #endif //PROJECT7_DATA_H

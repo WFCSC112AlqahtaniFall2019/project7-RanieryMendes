@@ -10,10 +10,16 @@
 #include <iostream>
 
 using namespace std;
+
+
 Node ::Node(const Data &d, Node *n) {
     data = d;
     next = n;
 };
+
+Node ::Node(const Data &d) {
+    data = d;
+}
 
 
 
@@ -31,10 +37,12 @@ LinkedList::LinkedList(const LinkedList& list) {
         listcurr = list.head->next;
         // loop over rest of nodes, copying data
         while (listcurr != nullptr) {
-            curr = curr->next = new Node(listcurr->data,0);
+            curr = curr->next = new Node(listcurr->data, nullptr);
             listcurr = listcurr->next;
+            cout <<"Head is not null"<<endl;
         }
     } else {
+        cout << "head is null" <<endl;
         // if list is empty, create another empty list
         head = nullptr;
     }
@@ -49,23 +57,28 @@ const LinkedList& LinkedList::operator=(LinkedList rhs) {
 void LinkedList::print(ostream &os) {
     // start at the head of the list
     Node *curr = head;
+   // cout << curr->data.numberOfFires;
+    cout << "got here" <<endl;
 
     while (curr != nullptr) {
+        cout << "Im here" << endl;
 
-          os <<curr->data;
-         curr->data.operator<<(os); // use overloaded output operator to print
+         os << curr->data;
+
+         //curr->data.operator<<(os); // use overloaded output operator to print  -
+         //curr = curr->next; // go to next node in list - IVE DONE IT
+
+         cout << curr->data; // use overloaded output operator to print
          curr = curr->next; // go to next node in list
-
-        //cout << curr->data << endl; // use overloaded output operator to print
-       // curr = curr->next; // go to next node in list
 
     }
 }
+
 void LinkedList::pop_head() {
     // if not an empty list
     if (head != nullptr) {
         // save location of where head points
-        Node *curr = head;
+        Node *curr = new Node (this->head->data,head);
         // head points to next node
         head = head->next;
         // delete node where head originally pointed

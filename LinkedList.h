@@ -14,6 +14,7 @@ public:
     Node *next; // pointer to next node
 
     Node(const Data &d, Node *n);
+    Node(const Data &d);
 };
 
 class LinkedList {

@@ -8,12 +8,7 @@
 
 using namespace std;
 
-ostream & operator << (ostream &out, const Data& printOutput)
-{
-    out << "FIRE IN AMAZON - Year: " << printOutput.year << " Month: " << printOutput.month << " State: ";
-    out<< printOutput.state << " Number of Fires: " << printOutput.numberOfFires;
 
-}
 
 
 int main() {
@@ -28,19 +23,20 @@ int main() {
         return 1;
     }
 
+    getInput.clear();
 
     Stack NewObjToPush;
 //reads data from the file up to the end of the file
-    for (int i = 0; i < 6434; i++) {
+    for (int i = 0; i < 10; i++) {
         Data objFromInput;
         cout << "I am reading data and storing!" << endl;
         getInput.clear();
 
         getline(getInput, objFromInput.year, ',');
         cout << "This the year: " << objFromInput.year << endl;
-        getInput.clear();
+         getInput.clear();
         getline(getInput, objFromInput.state, ',');
-        getInput.clear();
+         getInput.clear();
         cout << "This the state: " << objFromInput.state << endl;
 
         getline(getInput, objFromInput.month, ',');
@@ -64,7 +60,7 @@ int main() {
 
     ofstream printOutput;
     cout << "Opening Output File" << endl;
-    printOutput.open("/Users/ranierymendes/CLionProjects/project7-RanieryMendes2/stacked.txt");
+    printOutput.open("stacked.txt");
 
     if (!printOutput.is_open()) {
         cout << "Output file not opened" << endl;
@@ -72,21 +68,89 @@ int main() {
     }
 
 
+    for (int i = 0; i < 10; i++){
+        cout<< "Printing: ";
 
-    for (int i = 0; i < 6000; i++){
-        cout<< "Printing   ";
+        NewObjToPush.print(printOutput);
 
-         NewObjToPush.print(printOutput);
          if(printOutput.fail()){
              cout<<"Failed to print";
              return 1;
          }
-
+        //pop out head of the stack
          NewObjToPush.pop_head();
     }
 
-
+    // closing output file for stack
     printOutput.close();
+
+
+    ifstream inputForQueue;
+
+    inputForQueue.open("amazon.csv");
+
+    if(!inputForQueue.is_open()){
+        cout << "File for Queue is not opened" << endl;
+
+        return 1;
+    }
+
+
+    //FOR QUEUE
+
+
+    Queue NewQueue;
+
+    for (int i = 0; i < 10; i++) {
+        Data objFromInput;
+        cout << "I am reading data and storing!" << endl;
+        inputForQueue.clear();
+
+        getline(inputForQueue, objFromInput.year, ',');
+        cout << "This the year: " << objFromInput.year << endl;
+
+        getline(inputForQueue, objFromInput.state, ',');
+
+        cout << "This the state: " << objFromInput.state << endl;
+
+        getline(inputForQueue, objFromInput.month, ',');
+        cout << "This the month: " << objFromInput.month << endl;
+
+
+        getline(inputForQueue, objFromInput.numberOfFires);
+        cout << "This the number: " << objFromInput.numberOfFires << endl;
+
+        inputForQueue.clear();
+
+        NewQueue.enqueue_tail(objFromInput);
+    }
+
+    inputForQueue.close();
+
+    ofstream printIntoQueue;
+
+    printIntoQueue.open("queued.txt");
+
+    if (!printIntoQueue.is_open()){
+        cout << "File for print Queue is not opened" <<endl;
+        return 1;
+    }
+
+    for (int i = 0; i< 5; i++){
+
+        cout << "Printing Queue" << endl;
+
+        NewQueue.print(printIntoQueue);
+
+        if(printIntoQueue.fail()){
+            cout << "Failed to print into Queue file" <<endl;
+            return 1;
+        }
+
+        NewQueue.dequeue_head();
+    }
+
+    printIntoQueue.close();
 
 
     return 0;
