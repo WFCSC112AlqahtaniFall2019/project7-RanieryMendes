@@ -8,8 +8,8 @@
 
 using namespace std;
 
-bool Data ::operator>(Data objComp) {
-    if(this->numberOfFires > objComp.numberOfFires){
+bool Data ::operator < (Data objComp) {
+    if(this->numberOfFires < objComp.numberOfFires){
         return true;
     }
     else{

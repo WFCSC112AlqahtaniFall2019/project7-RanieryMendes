@@ -8,7 +8,11 @@
 #include "LinkedList.h"
 
 class SortedLinkedList : public LinkedList {
-    void insertSorted (Data addObj);
+
+public:
+
+    void  insertionSortII ();
+    void append( Data item );
 };
 
 #endif //PROJECT7_SORTEDLINKEDLIST_H

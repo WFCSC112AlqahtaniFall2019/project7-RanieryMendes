@@ -20,6 +20,9 @@ Node ::Node(const Data &d, Node *n) {
 Node ::Node(const Data &d) {
     data = d;
 }
+Node ::Node(Node *n) {
+    next = n;
+}
 
 
 
@@ -39,10 +42,10 @@ LinkedList::LinkedList(const LinkedList& list) {
         while (listcurr != nullptr) {
             curr = curr->next = new Node(listcurr->data, nullptr);
             listcurr = listcurr->next;
-            cout <<"Head is not null"<<endl;
+            //cout <<"Head is not null"<<endl;
         }
     } else {
-        cout << "head is null" <<endl;
+       // cout << "head is null" <<endl;
         // if list is empty, create another empty list
         head = nullptr;
     }
@@ -57,18 +60,11 @@ const LinkedList& LinkedList::operator=(LinkedList rhs) {
 void LinkedList::print(ostream &os) {
     // start at the head of the list
     Node *curr = head;
-   // cout << curr->data.numberOfFires;
-    cout << "got here" <<endl;
 
     while (curr != nullptr) {
-        cout << "Im here" << endl;
 
-         os << curr->data;
 
-         //curr->data.operator<<(os); // use overloaded output operator to print  -
-         //curr = curr->next; // go to next node in list - IVE DONE IT
-
-         cout << curr->data; // use overloaded output operator to print
+         os << curr->data; // use overloaded output operator to print
          curr = curr->next; // go to next node in list
 
     }
@@ -91,3 +87,24 @@ LinkedList::~LinkedList() {
         pop_head();
     }
 }
+
+void LinkedList :: append( Data d) {
+
+    //case it is inserting to an empty list
+    if (head == nullptr) {
+        head = new Node(d);
+    }
+
+        //insert at the head or after it
+
+    else {
+        Node *curr = head;
+        while (curr->next != nullptr) {
+            curr = curr->next;
+        }
+
+        curr ->next = new Node (d);
+
+    }
+}
+

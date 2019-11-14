@@ -29,22 +29,22 @@ int main() {
 //reads data from the file up to the end of the file
     for (int i = 0; i < 10; i++) {
         Data objFromInput;
-        cout << "I am reading data and storing!" << endl;
+        //cout << "I am reading data and storing!" << endl;
         getInput.clear();
 
         getline(getInput, objFromInput.year, ',');
-        cout << "This the year: " << objFromInput.year << endl;
+       // cout << "This the year: " << objFromInput.year << endl;
          getInput.clear();
         getline(getInput, objFromInput.state, ',');
          getInput.clear();
-        cout << "This the state: " << objFromInput.state << endl;
+        //cout << "This the state: " << objFromInput.state << endl;
 
         getline(getInput, objFromInput.month, ',');
-        cout << "This the month: " << objFromInput.month << endl;
+        //cout << "This the month: " << objFromInput.month << endl;
         getInput.clear();
         // getInput >> objFromInput.numberOfFires;
         getline(getInput, objFromInput.numberOfFires);
-        cout << "This the number: " << objFromInput.numberOfFires << endl;
+       // cout << "This the number: " << objFromInput.numberOfFires << endl;
         getInput.clear();
 
 
@@ -59,7 +59,7 @@ int main() {
     }
 
     ofstream printOutput;
-    cout << "Opening Output File" << endl;
+    cout << "Opening Output File for Stack" << endl;
     printOutput.open("stacked.txt");
 
     if (!printOutput.is_open()) {
@@ -67,11 +67,11 @@ int main() {
         return 1;
     }
 
-
-    for (int i = 0; i < 10; i++){
+    NewObjToPush.print(printOutput);
+    for (int i = 0; i < 5; i++){
         cout<< "Printing: ";
 
-        NewObjToPush.print(printOutput);
+       // NewObjToPush.print(printOutput);
 
          if(printOutput.fail()){
              cout<<"Failed to print";
@@ -136,7 +136,7 @@ int main() {
         return 1;
     }
 
-    for (int i = 0; i< 5; i++){
+    for (int i = 0; i< 9; i++){
 
         cout << "Printing Queue" << endl;
 
@@ -151,6 +151,71 @@ int main() {
     }
 
     printIntoQueue.close();
+
+    ifstream inputForLinkedList;
+
+    inputForLinkedList.open("amazon.csv");
+
+    cout << "File for Linked List opened" << endl;
+
+    if (!inputForLinkedList.is_open()){
+        cout << "File for LinkedList is not opened" <<endl;
+        return 1;
+    }
+
+    SortedLinkedList NewLinkedList;
+
+
+    for (int i = 0; i < 40; i++) {
+        Data objFromInput;
+        cout << "I am reading data and storing!" << endl;
+        inputForLinkedList.clear();
+
+        getline(inputForLinkedList, objFromInput.year, ',');
+        cout << "This the year: " << objFromInput.year << endl;
+
+        getline(inputForLinkedList, objFromInput.state, ',');
+
+        cout << "This the state: " << objFromInput.state << endl;
+
+        getline(inputForLinkedList, objFromInput.month, ',');
+        cout << "This the month: " << objFromInput.month << endl;
+
+
+        getline(inputForLinkedList, objFromInput.numberOfFires);
+        cout << "This the number: " << objFromInput.numberOfFires << endl;
+
+        inputForLinkedList.clear();
+
+        NewLinkedList.append(objFromInput);
+
+
+
+    }
+
+    inputForLinkedList.close();
+
+    ofstream printOutputForLinkedList;
+
+    printOutputForLinkedList.open("sorted.txt" );
+
+    if (!printOutputForLinkedList.is_open()){
+         cout << "File for print LinkedList output is not opened" << endl;
+         return 1;
+    }
+
+        NewLinkedList.insertionSortII();
+        NewLinkedList.print(printOutputForLinkedList);
+
+
+    if (printOutputForLinkedList.fail()){
+        cout << "Printing Sorted LinkedList failed" << endl;
+        return 1;
+    }
+
+
+    printOutputForLinkedList.close();
+
 
 
     return 0;

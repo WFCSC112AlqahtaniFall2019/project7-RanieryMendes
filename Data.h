@@ -18,7 +18,7 @@ public:
     string state;
     string numberOfFires;
     friend ostream& operator << (ostream &out, const Data& printData);
-    bool operator> (Data objComp);
+    bool operator< (Data objComp);
     ostream& operator<<(ostream &out);
 };
 

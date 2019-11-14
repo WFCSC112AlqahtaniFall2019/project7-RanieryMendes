@@ -14,6 +14,7 @@ void Stack ::push_head(Data newObj) {
 }
 
 bool Stack ::pop_head() {
+
     if (head == nullptr){
         cout << "Empty List" << endl;
         return  false;

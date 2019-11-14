@@ -15,6 +15,7 @@ public:
 
     Node(const Data &d, Node *n);
     Node(const Data &d);
+    Node(Node *n);
 };
 
 class LinkedList {
@@ -25,7 +26,7 @@ public:
     LinkedList(const LinkedList& list);
     const LinkedList& operator=(LinkedList rhs);
      void print(ostream &os);
-
+     void append( Data d);
     void pop_head();
     ~LinkedList();
 };
