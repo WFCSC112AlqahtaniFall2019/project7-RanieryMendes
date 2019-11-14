@@ -35,8 +35,8 @@ void SortedLinkedList :: insertionSortII () {
             current->next = current->next->next;
 
             previous->next->next = temp;
-            // sets the previous as GOD to
-            previous =  head;// sets
+            // sets the previous as GOD
+            previous =  GOD->next;// sets
             current = previous->next;
 
         }
