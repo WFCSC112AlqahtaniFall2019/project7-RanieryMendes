@@ -11,8 +11,8 @@ class SortedLinkedList : public LinkedList {
 
 public:
 
-    void  insertionSortII ();
-    void append( Data item );
+    void  insertionSortII (); //function to sort linked list
+    void append( Data item ); //function to insert Data objects, that is, new nodes into the linkedlist
 };
 
 #endif //PROJECT7_SORTEDLINKEDLIST_H

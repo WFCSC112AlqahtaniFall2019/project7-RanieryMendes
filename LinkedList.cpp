@@ -12,14 +12,18 @@
 using namespace std;
 
 
+//constructor for Node with Data object and Pointer parameters
 Node ::Node(const Data &d, Node *n) {
     data = d;
     next = n;
 };
 
+//constructor for node with just Data object parameter
 Node ::Node(const Data &d) {
     data = d;
 }
+
+//constructor for node with just pointer parameter
 Node ::Node(Node *n) {
     next = n;
 }

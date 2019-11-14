@@ -17,7 +17,7 @@ void SortedLinkedList :: insertionSortII () {
 // while (outter) loop to iterate through the
     while (current != nullptr) {
         // if statement for 2 conditions
-        // 1st if current next is not null and 2nd if the next node's value is larger than the current node's value
+        // 1st if current next is not null and 2nd if the next node's data (number of Fires) is larger than the current node's data number of Fires)
         // if both conditions are met, the if statement executes
         if ((current->next) && (current->next->data < current->data)) {
 
@@ -36,7 +36,9 @@ void SortedLinkedList :: insertionSortII () {
 
             previous->next->next = temp;
             // sets the previous as GOD to
-            previous = head; // sets
+            previous =  head;// sets
+            current = previous->next;
+
         }
             // if the node did not find the right location keep iterating
         else {
@@ -56,11 +58,11 @@ void SortedLinkedList :: append( Data item ) {
 
     else {
         Node *curr = head;
-        while (curr->next != nullptr) {
+        while (curr ->next != nullptr) {
             curr = curr->next;
         }
 
-        curr ->next = new Node (item);
+        curr ->next = new Node (item, nullptr);
 
     }
 }
